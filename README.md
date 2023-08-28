@@ -50,5 +50,13 @@ Created a college canteen website that simplifies the food ordering process for 
 4. DEBMALYA SADHUKHAN
 
 ## SCREEN SNIPPETS OF OUR website
+![1](https://github.com/deBmalooo/AOT_Canteen/assets/131870160/f5e04c66-7923-42ff-b060-de9069622273)
+![2](https://github.com/deBmalooo/AOT_Canteen/assets/131870160/8b2e8e67-be1f-4935-9cd8-40d883662b54)
+![4](https://github.com/deBmalooo/AOT_Canteen/assets/131870160/3537c60a-3d48-4d0f-a32f-ae46f7442bf8)
+![5](https://github.com/deBmalooo/AOT_Canteen/assets/131870160/fa7954c3-c8b3-4d92-aaa5-4d0ded76cce6)
+![6](https://github.com/deBmalooo/AOT_Canteen/assets/131870160/771bc290-96de-4a11-b357-01475f11dd13)
+![7](https://github.com/deBmalooo/AOT_Canteen/assets/131870160/07895f2d-c8af-46fb-b43f-bac35cef451d)
+
+
 
 
