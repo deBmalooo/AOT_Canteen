@@ -56,6 +56,11 @@ Created a college canteen website that simplifies the food ordering process for 
 ![5](https://github.com/deBmalooo/AOT_Canteen/assets/131870160/fa7954c3-c8b3-4d92-aaa5-4d0ded76cce6)
 ![6](https://github.com/deBmalooo/AOT_Canteen/assets/131870160/771bc290-96de-4a11-b357-01475f11dd13)
 ![7](https://github.com/deBmalooo/AOT_Canteen/assets/131870160/07895f2d-c8af-46fb-b43f-bac35cef451d)
+![10](https://github.com/deBmalooo/AOT_Canteen/assets/131870160/57f579a3-bb9b-4993-92e9-24b278dead95)
+![11](https://github.com/deBmalooo/AOT_Canteen/assets/131870160/9cf829cd-3a34-46f9-bd6f-af0fe40edc8c)
+![13](https://github.com/deBmalooo/AOT_Canteen/assets/131870160/ccaaeaa7-b20e-42c0-9509-4903857e9ef9)
+![15](https://github.com/deBmalooo/AOT_Canteen/assets/131870160/0a4f5f02-a41e-466a-a9d2-5e656ea37945)
+
 
 
 
